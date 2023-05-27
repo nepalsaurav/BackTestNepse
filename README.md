@@ -18,7 +18,7 @@ This command will install all the necessary Python packages specified in the req
 
 ## Usage
 
-You can run BackTestNepse using the following command:
+You can run BackTestNepse using the following command and output will generated in output folder as output.html:
 
 ```bash
 $ py main.py strategy=strategy_name
