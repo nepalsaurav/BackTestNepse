@@ -1,0 +1,989 @@
+{
+    "Sheet1": [
+        {
+            "symbol": "NABIL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "NIB",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "SCB",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "SBI",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "EBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "BOKL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "NICA",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "MBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "LBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "KBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "NCCB",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "SBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "SHL",
+            "Status": "Active",
+            "Sector": "Hotels And Tourism"
+        },
+        {
+            "symbol": "TRH",
+            "Status": "Active",
+            "Sector": "Hotels And Tourism"
+        },
+        {
+            "symbol": "OHL",
+            "Status": "Active",
+            "Sector": "Hotels And Tourism"
+        },
+        {
+            "symbol": "NHPC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "BPCL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "CHCL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "STC",
+            "Status": "Active",
+            "Sector": "Tradings"
+        },
+        {
+            "symbol": "BBC",
+            "Status": "Active",
+            "Sector": "Tradings"
+        },
+        {
+            "symbol": "NUBL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "CBBL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "DDBL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "SANIMA",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "NABBC",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "NICL",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "RBCL",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "NLICL",
+            "Status": "Active",
+            "Sector": "Life Insurance"
+        },
+        {
+            "symbol": "UIC",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "PIC",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "NIL",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "PRIN",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "SIC",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "IGI",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "NLIC",
+            "Status": "Active",
+            "Sector": "Life Insurance"
+        },
+        {
+            "symbol": "LICN",
+            "Status": "Active",
+            "Sector": "Life Insurance"
+        },
+        {
+            "symbol": "PICL",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "LGIL",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "SICL",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "NFS",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "BNL",
+            "Status": "Active",
+            "Sector": "Manufacturing And Processing"
+        },
+        {
+            "symbol": "NLO",
+            "Status": "Active",
+            "Sector": "Manufacturing And Processing"
+        },
+        {
+            "symbol": "GUFL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "CIT",
+            "Status": "Active",
+            "Sector": "Investment"
+        },
+        {
+            "symbol": "BNT",
+            "Status": "Active",
+            "Sector": "Manufacturing And Processing"
+        },
+        {
+            "symbol": "UNL",
+            "Status": "Active",
+            "Sector": "Manufacturing And Processing"
+        },
+        {
+            "symbol": "BFC",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "GFCL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "HDL",
+            "Status": "Active",
+            "Sector": "Manufacturing And Processing"
+        },
+        {
+            "symbol": "PFL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "NMB",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "SIFC",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "CFCL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "JFL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "PRVU",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "SFCL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "GMFIL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "SWBBL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "ICFC",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "EDBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "SIL",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "NTC",
+            "Status": "Active",
+            "Sector": "Others"
+        },
+        {
+            "symbol": "PROFL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "GBIME",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "CZBIL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "PCBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "LBBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "SRBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "AHPC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "MDB",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "ALICL",
+            "Status": "Active",
+            "Sector": "Life Insurance"
+        },
+        {
+            "symbol": "NLBBL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "ADBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "MLBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "SLICL",
+            "Status": "Active",
+            "Sector": "Life Insurance"
+        },
+        {
+            "symbol": "GBBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "JBBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "KRBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "CORBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "KSBBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "MPFL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "SADBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "SHINE",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "MNBBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "FMDBL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "SMFDB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "MFIL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "NBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "CBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "SLBBL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "NLG",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "SINDU",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "MEGA",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "SKBBL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "RMDC",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "GBLBS",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "RLFL",
+            "Status": "Active",
+            "Sector": "Finance"
+        },
+        {
+            "symbol": "SHPC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "NSLB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "KMCDB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "MLBBL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "CCBL",
+            "Status": "Active",
+            "Sector": "Commercial Banks"
+        },
+        {
+            "symbol": "LLBS",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "MMFDB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "BARUN",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "VLBS",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "CLBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "KLBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "JSLBB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "API",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "NMBMF",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "GILB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "SWMF",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "MERO",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "HIDCL",
+            "Status": "Active",
+            "Sector": "Investment"
+        },
+        {
+            "symbol": "NGPL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "GRDBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "NMFBS",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "RSDC",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "KKHC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "DHPL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "AKPL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "FOWAD",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "SPDL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "UMHL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "SMATA",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "CHL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "HPPL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "MSLB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "NHDL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "SMB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "USLB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "RADHI",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "WNLB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "PMHPL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "KPCL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "AKJCL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "JOSHI",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "ACLBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "UPPER",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "SLBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "GHL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "ALBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "SHIVM",
+            "Status": "Active",
+            "Sector": "Manufacturing And Processing"
+        },
+        {
+            "symbol": "UPCL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "MHNL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "PPCL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "GMFBS",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "HURJA",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "GLBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "SMFBS",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "UNHPL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "ILBS",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "RHPL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "SJCL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "SABSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "SAPDBL",
+            "Status": "Active",
+            "Sector": "Development Banks"
+        },
+        {
+            "symbol": "HDHPC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "NRIC",
+            "Status": "Active",
+            "Sector": "Others"
+        },
+        {
+            "symbol": "NICLBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "AIL",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "SDLBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "NRN",
+            "Status": "Active",
+            "Sector": "Investment"
+        },
+        {
+            "symbol": "RLI",
+            "Status": "Active",
+            "Sector": "Life Insurance"
+        },
+        {
+            "symbol": "LEC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "GIC",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "SSHL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "SGI",
+            "Status": "Active",
+            "Sector": "Non Life Insurance"
+        },
+        {
+            "symbol": "MEN",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "UMRH",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "PLI",
+            "Status": "Active",
+            "Sector": "Life Insurance"
+        },
+        {
+            "symbol": "CGH",
+            "Status": "Active",
+            "Sector": "Hotels And Tourism"
+        },
+        {
+            "symbol": "NIFRA",
+            "Status": "Active",
+            "Sector": "Investment"
+        },
+        {
+            "symbol": "GLH",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "MLBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "JLI",
+            "Status": "Active",
+            "Sector": "Life Insurance"
+        },
+        {
+            "symbol": "SHEL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "RURU",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "CHDC",
+            "Status": "Active",
+            "Sector": "Investment"
+        },
+        {
+            "symbol": "JBLB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "MKLB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "SLI",
+            "Status": "Active",
+            "Sector": "Life Insurance"
+        },
+        {
+            "symbol": "MKJC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "MLBS",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "SAHAS",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "TPC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "SPC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "NYADI",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "MBJC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "BNHC",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "ENL",
+            "Status": "Active",
+            "Sector": "Investment"
+        },
+        {
+            "symbol": "RULB",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "JALPA",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "NESDO",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        },
+        {
+            "symbol": "GVL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "BHL",
+            "Status": "Active",
+            "Sector": "Hydro Power"
+        },
+        {
+            "symbol": "ULBSL",
+            "Status": "Active",
+            "Sector": "Microfinance"
+        }
+    ]
+}

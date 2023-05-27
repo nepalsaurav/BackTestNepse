@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turtle Strategy</title>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.min.css">
+</head>
+
+<body>
+
+    <style>
+        thead {
+            background-color: blueviolet;
+            color: #fff;
+        }
+
+        table {
+            width: 100%;
+            /* Set the table width to 100% of the container */
+        }
+
+        body {
+            max-width: 1200px;
+        }
+
+        .gradient-button {
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-image: linear-gradient(to right, #ff6b6b, #c32bad);
+            color: #fff;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            transition: background 0.3s ease;
+        }
+
+        .gradient-button:hover {
+            background-image: linear-gradient(to right, #c32bad, #ff6b6b);
+        }
+    </style>
+
+    <div x-data="main">
+        <h1 style="color:blueviolet">Trading Strategy</h1>
+        <h2><b>Strategy:</b></h2>
+        <div>{{ description }}</div>
+        <div>
+            <h2><b>Back Test:</b></h2>
+            <button type="button" @click="showBackTestResult($refs.backtest_result_dialog)">Show Result</button>
+            <dialog x-ref="backtest_result_dialog">
+                <button type="button" @click="closeBackTestResult($refs.backtest_result_dialog)">Close</button>
+                <p>We have chosen the below stock for back-testing purposes.</p>
+                <p>Following is the result of backtesting:</p>
+                <br>
+                {{ result_table }}
+            </dialog>
+            <h2><b>Individual Company Return</b></h2>
+
+            <!-- top 5 company -->
+            <h3>Top 5 Company</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Symbol</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in top_five %}
+                    <tr>
+                        <td>{{ item }}</td>
+                        <td><button class="gradient-button" @click="$refs.{{item}}_top_five.showModal()">Show
+                                Result</button></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% for item in top_five_detail %}
+            <dialog x-ref="{{ item.symbol }}_top_five">
+                <button type="button" @click="$refs.{{ item.symbol }}_top_five.close()">Close</button>
+                <h2>Detail Result of {{ item.symbol }}</h2>
+                {{ item.html }}
+            </dialog>
+            {% endfor %}
+
+            <!-- top bottom company -->
+            <h3>Bottom 5 Company</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Symbol</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in bottom_five %}
+                    <tr>
+                        <td>{{ item }}</td>
+                        <td><button class="gradient-button" @click="$refs.{{item}}_bottom_five.showModal()">Show
+                                Result</button></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% for item in bottom_five_detail %}
+            <dialog x-ref="{{ item.symbol }}_bottom_five">
+                <button type="button" @click="$refs.{{ item.symbol }}_bottom_five.close()">Close</button>
+                <h2>Detail Result of {{ item.symbol }}</h2>
+                {{ item.html }}
+            </dialog>
+            {% endfor %}
+
+            <br>
+            <h2><b>Relationship Between Standard Deviation and return</b></h2>
+            {{ chart_html_sd_rp|safe }}
+            <br>
+            <h2><b>Statistical Test:</b></h2>
+            <div>
+                {{ sd_rp_st }}
+            </div>
+            <h2><b>Relationship Between Beta and return</b></h2>
+            {{ chart_html_b_rp|safe }}
+            <br>
+            <h2><b>Statistical Test:</b></h2>
+            <div>
+                {{ sd_rp_b }}
+            </div>
+
+            <br>
+            <h2><b>Monte Carlo simulations</b></h2>
+            <h3><b>Best Case Scenario</b></h3>
+            {{ b_case_ms }}
+            <h3><b>Worst Case Scenario</b></h3>
+            {{ w_case_ms }}
+
+            <h2><b>Distribution Of Return</b></h2>
+            {{ distribution_rp_chart }}
+            <br>
+            <h3><b>Summary Statstics</b></h3>
+            {{ summary_mcs }}
+        </div>
+    </div>
+
+
+    <script>
+        document.addEventListener('alpine:init', () => {
+            Alpine.data('main', () => ({
+                showBackTestResult(el) {
+                    console.log(el)
+                    el.showModal()
+                },
+                closeBackTestResult(el) {
+                    el.close()
+                }
+            }))
+        })
+    </script>
+</body>
+
+</html>
