@@ -1,0 +1,1910 @@
+{
+    "Sheet1": [
+        {
+            "sn": 1,
+            "name": "NabilBankLimited",
+            "symbol": "NABIL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "rajesh.bogati@nabilbank.com"
+        },
+        {
+            "sn": 2,
+            "name": "NepalInvestmentMegaBankLimited",
+            "symbol": "NIMB",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "NIBL.Nepse@nibl.com.np",
+            "Website": "http:\/\/www.nibl.com.np"
+        },
+        {
+            "sn": 3,
+            "name": "StandardCharteredBankLimited",
+            "symbol": "SCB",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "Legal.Nepal@sc.com"
+        },
+        {
+            "sn": 4,
+            "name": "HimalayanBankLimited",
+            "symbol": "HBL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "legal@himalayanbank.com",
+            "Website": "https:\/\/www.himalayanbank.com"
+        },
+        {
+            "sn": 5,
+            "name": "NepalSBIBankLimited",
+            "symbol": "SBI",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "cs@nsbl.com.np",
+            "Website": "https:\/\/nsbl.statebank"
+        },
+        {
+            "sn": 6,
+            "name": "EverestBankLimited",
+            "symbol": "EBL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "sharedept@ebl.com.np"
+        },
+        {
+            "sn": 7,
+            "name": "NICAsiaBankLtd.",
+            "symbol": "NICA",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "nica.nots@nicasiabank.com"
+        },
+        {
+            "sn": 8,
+            "name": "MachhapuchhreBankLimited",
+            "symbol": "MBL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "machbank@mbl.com.np",
+            "Website": "http:\/\/www.machbank.com"
+        },
+        {
+            "sn": 9,
+            "name": "LaxmiSunriseBankLimited",
+            "symbol": "LSL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "piyush.aryal@laxmibank.com"
+        },
+        {
+            "sn": 10,
+            "name": "KumariBankLimited",
+            "symbol": "KBL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "info@kumaribank.com",
+            "Website": "http:\/\/www.kumaribank.com"
+        },
+        {
+            "sn": 11,
+            "name": "SiddharthaBankLimited",
+            "symbol": "SBL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "laxman.ghimire@sbl.com.np"
+        },
+        {
+            "sn": 12,
+            "name": "SoalteeHotelLimited",
+            "symbol": "SHL",
+            "status": "Active",
+            "sector": "HotelsAndTourism",
+            "instrument": "Equity",
+            "email": "lbkhatri@soaltee.com.np",
+            "Website": "http:\/\/www.soalteehotel.com"
+        },
+        {
+            "sn": 13,
+            "name": "TaragaonRegencyHotelLimited",
+            "symbol": "TRH",
+            "status": "Active",
+            "sector": "HotelsAndTourism",
+            "instrument": "Equity",
+            "email": "info@taragaon.com"
+        },
+        {
+            "sn": 14,
+            "name": "OrientalHotelsLimited",
+            "symbol": "OHL",
+            "status": "Active",
+            "sector": "HotelsAndTourism",
+            "instrument": "Equity",
+            "email": "legal@radkat.com.np"
+        },
+        {
+            "sn": 15,
+            "name": "NationalHydroPowerCompanyLimited",
+            "symbol": "NHPC",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "info@nhpcl.com"
+        },
+        {
+            "sn": 16,
+            "name": "ButwalPowerCompanyLimited",
+            "symbol": "BPCL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "hari.budhathoki@bpc.com.np",
+            "Website": "http:\/\/www.bpc.com.np"
+        },
+        {
+            "sn": 17,
+            "name": "ChilimeHydropowerCompanyLimited",
+            "symbol": "CHCL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "narayanprasad.acharya@chilime.com.np"
+        },
+        {
+            "sn": 18,
+            "name": "SaltTradingCorporation",
+            "symbol": "STC",
+            "status": "Active",
+            "sector": "Tradings",
+            "instrument": "Equity",
+            "email": "legalstcnepal@gmail.com"
+        },
+        {
+            "sn": 19,
+            "name": "BishalBazarCompanyLimited",
+            "symbol": "BBC",
+            "status": "Active",
+            "sector": "Tradings",
+            "instrument": "Equity",
+            "email": "info@bishalbazar.com.np"
+        },
+        {
+            "sn": 20,
+            "name": "NirdhanUtthanLaghubittaBittiyaSansthaLimited",
+            "symbol": "NUBL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "rbchaudhary@nirdhan.com.np"
+        },
+        {
+            "sn": 21,
+            "name": "ChhimekLaghubittaBittiyaSansthaLimited",
+            "symbol": "CBBL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@chhimekbank.org"
+        },
+        {
+            "sn": 22,
+            "name": "DeproscLaghubittaBittiyaSansthaLimited",
+            "symbol": "DDBL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "ddbl@ddbank.org.np"
+        },
+        {
+            "sn": 23,
+            "name": "SanimaBankLimited",
+            "symbol": "SANIMA",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "RUDRA@sanimabank.com",
+            "Website": "www.sanimabank.com"
+        },
+        {
+            "sn": 24,
+            "name": "NarayaniDevelopmentBankLimited",
+            "symbol": "NABBC",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@ndbl.com.np",
+            "Website": "www.ndbl.com.np"
+        },
+        {
+            "sn": 25,
+            "name": "NepalInsuranceCo.Ltd.",
+            "symbol": "NICL",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "nic@nepalinsurance.com.np"
+        },
+        {
+            "sn": 26,
+            "name": "RastriyaBeemaCompanyLimited",
+            "symbol": "RBCL",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "info@rbcl.gov.np"
+        },
+        {
+            "sn": 27,
+            "name": "NationalLifeInsuranceCo.Ltd.",
+            "symbol": "NLICL",
+            "status": "Active",
+            "sector": "LifeInsurance",
+            "instrument": "Equity",
+            "email": "it@nationallife.com.np"
+        },
+        {
+            "sn": 28,
+            "name": "HimalayanEverestInsuranceLimited",
+            "symbol": "HEI",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "subindra.shrestha@hei.com.np"
+        },
+        {
+            "sn": 29,
+            "name": "UnitedAjodInsuranceLimited",
+            "symbol": "UAIL",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "info@unitedinsurance.com.np",
+            "Website": "www.unitedinsurance.com.npwww.unitedinsurance.com.n"
+        },
+        {
+            "sn": 30,
+            "name": "SiddharthaPremierInsuranceLimited",
+            "symbol": "SPIL",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "premier@picl.com.np"
+        },
+        {
+            "sn": 31,
+            "name": "NecoInsuranceLimited",
+            "symbol": "NIL",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "info@neco.com.np",
+            "Website": "http:\/\/www.necoinsurance.com.np"
+        },
+        {
+            "sn": 32,
+            "name": "PrabhuInsuranceLtd.",
+            "symbol": "PRIN",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "info@prabhuinsurance.com",
+            "Website": "http:\/\/www.prabhuinsurance.com"
+        },
+        {
+            "sn": 33,
+            "name": "SagarmathaLumbiniInsuranceCo.Limited",
+            "symbol": "SALICO",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "bishow.ad@sagarmathainsurance.com.np"
+        },
+        {
+            "sn": 34,
+            "name": "IGIPrudentialinsuranceLimited",
+            "symbol": "IGI",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "compliance@iginepal.com",
+            "Website": "http:\/\/www.iginepal.com"
+        },
+        {
+            "sn": 35,
+            "name": "NepalLifeInsuranceCo.Ltd.",
+            "symbol": "NLIC",
+            "status": "Active",
+            "sector": "LifeInsurance",
+            "instrument": "Equity",
+            "email": "cs@nepallife.com.np"
+        },
+        {
+            "sn": 36,
+            "name": "LifeInsuranceCorporation(Nepal)Limited",
+            "symbol": "LICN",
+            "status": "Active",
+            "sector": "LifeInsurance",
+            "instrument": "Equity",
+            "email": "cs@licnepal.com.np",
+            "Website": "http:\/\/www.licnepal.com.np"
+        },
+        {
+            "sn": 37,
+            "name": "ShikharInsuranceCo.Ltd.",
+            "symbol": "SICL",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "info@shikharinsurance.com",
+            "Website": "http:\/\/www.shikharinsurance.com"
+        },
+        {
+            "sn": 38,
+            "name": "NepalFinanceLtd.",
+            "symbol": "NFS",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "info@nepalfinance.com.np",
+            "Website": "www.nepalfinancelimited.com.np"
+        },
+        {
+            "sn": 39,
+            "name": "BottlersNepal(Balaju)Limited",
+            "symbol": "BNL",
+            "status": "Active",
+            "sector": "ManufacturingAndProcessing",
+            "instrument": "Equity",
+            "email": "prburma@coca-cola.com.np"
+        },
+        {
+            "sn": 40,
+            "name": "NepalLubeOilLimited",
+            "symbol": "NLO",
+            "status": "Active",
+            "sector": "ManufacturingAndProcessing",
+            "instrument": "Equity",
+            "email": "g.bhattarai@cg.holdings"
+        },
+        {
+            "sn": 41,
+            "name": "GurkhasFinanceLtd.",
+            "symbol": "GUFL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "mukunda@gurkhasfinance.com.np",
+            "Website": "www.gurkhasfinance.com.np"
+        },
+        {
+            "sn": 42,
+            "name": "CitizenInvestmentTrust",
+            "symbol": "CIT",
+            "status": "Active",
+            "sector": "Investment",
+            "instrument": "Equity",
+            "email": "cit.cmkt@gmail.com"
+        },
+        {
+            "sn": 43,
+            "name": "BottlersNepal(Terai)Limited",
+            "symbol": "BNT",
+            "status": "Active",
+            "sector": "ManufacturingAndProcessing",
+            "instrument": "Equity",
+            "email": "investorrelations@coca-cola.com.np"
+        },
+        {
+            "sn": 44,
+            "name": "UnileverNepalLimited",
+            "symbol": "UNL",
+            "status": "Active",
+            "sector": "ManufacturingAndProcessing",
+            "instrument": "Equity",
+            "email": "unl.shareholdersconnect@unilever.com"
+        },
+        {
+            "sn": 45,
+            "name": "BestFinanceCompanyLtd.",
+            "symbol": "BFC",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "raj.shrestha@bestfinance.com.np"
+        },
+        {
+            "sn": 46,
+            "name": "GoodwillFinanceLimited",
+            "symbol": "GFCL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "info@goodwill.net.np",
+            "Website": "https:\/\/goodwillfinance.com.np\/"
+        },
+        {
+            "sn": 47,
+            "name": "HimalayanDistilleryLimited",
+            "symbol": "HDL",
+            "status": "Active",
+            "sector": "ManufacturingAndProcessing",
+            "instrument": "Equity",
+            "email": "info@himalayandistillery.com"
+        },
+        {
+            "sn": 48,
+            "name": "PokharaFinanceLtd.",
+            "symbol": "PFL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "info@pokharafinance.com.np"
+        },
+        {
+            "sn": 49,
+            "name": "NMBBankLimited",
+            "symbol": "NMB",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "pramod.dahal@nmb.com.np",
+            "Website": "http:\/\/www.nmb.com.np"
+        },
+        {
+            "sn": 50,
+            "name": "ShreeInvestmentFinanceCo.Ltd.",
+            "symbol": "SIFC",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "info@shreefinance.com.np",
+            "Website": "http:\/\/www.shreefinance.com.np"
+        },
+        {
+            "sn": 51,
+            "name": "CentralFinanceCo.Ltd.",
+            "symbol": "CFCL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "info@centralfinance.com.np"
+        },
+        {
+            "sn": 52,
+            "name": "JanakiFinanceCompanyLimited",
+            "symbol": "JFL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "info@jfcjanakpur.com"
+        },
+        {
+            "sn": 53,
+            "name": "PrabhuBankLimited",
+            "symbol": "PRVU",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "amit.bhandari@prabhubank.com"
+        },
+        {
+            "sn": 54,
+            "name": "SamriddhiFinanceCompanyLimited",
+            "symbol": "SFCL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "cs@sfcl.com.np",
+            "Website": "http:\/\/www.wmerchantbank.com"
+        },
+        {
+            "sn": 55,
+            "name": "GuheshoworiMerchantBank&FinanceCo.Ltd.",
+            "symbol": "GMFIL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "compliance@gmbf.com.np",
+            "Website": "www.gmbf.com.np"
+        },
+        {
+            "sn": 56,
+            "name": "SwabalambanLaghubittaBittiyaSansthaLimited",
+            "symbol": "SWBBL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "finance@swbbl.com.np",
+            "Website": "www.swbbl.com.np"
+        },
+        {
+            "sn": 57,
+            "name": "ICFCFinanceLimited",
+            "symbol": "ICFC",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "nepsereport@icfcbank.com",
+            "Website": "www.icfc.com.np"
+        },
+        {
+            "sn": 58,
+            "name": "ExcelDevelopmentBankLtd.",
+            "symbol": "EDBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@edb.com.np"
+        },
+        {
+            "sn": 59,
+            "name": "NepalDoorsancharCompanyLimited",
+            "symbol": "NTC",
+            "status": "Active",
+            "sector": "Others",
+            "instrument": "Equity",
+            "email": "cs.nt@ntc.net.np",
+            "Website": "www.ntc.net.np"
+        },
+        {
+            "sn": 60,
+            "name": "ProgressiveFinanceLimited",
+            "symbol": "PROFL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "info@pfltd.com.np",
+            "Website": "http:\/\/www.pfltd.com.np"
+        },
+        {
+            "sn": 61,
+            "name": "GlobalIMEBankLimited",
+            "symbol": "GBIME",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "nlisting@gibl.com.np",
+            "Website": "http:\/\/www.globalimebank.com"
+        },
+        {
+            "sn": 62,
+            "name": "CitizensBankInternationalLimited",
+            "symbol": "CZBIL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "rajendra.shrestha@ctznbank.com",
+            "Website": "www.ctznbank.com"
+        },
+        {
+            "sn": 63,
+            "name": "PrimeCommercialBankLtd.",
+            "symbol": "PCBL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "CS@pcbl.com.np"
+        },
+        {
+            "sn": 64,
+            "name": "LumbiniBikasBankLtd.",
+            "symbol": "LBBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "hari.subedi@lumbinibikasbank.com"
+        },
+        {
+            "sn": 65,
+            "name": "ArunValleyHydropowerDevelopmentCo.Ltd.",
+            "symbol": "AHPC",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "arunvalley2054@gmail.com"
+        },
+        {
+            "sn": 66,
+            "name": "MiteriDevelopmentBankLimited",
+            "symbol": "MDB",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "thakuri@miteribank.com.np",
+            "Website": "http:\/\/www.miteribank.com.np"
+        },
+        {
+            "sn": 67,
+            "name": "AsianLifeInsuranceCo.Limited",
+            "symbol": "ALICL",
+            "status": "Active",
+            "sector": "LifeInsurance",
+            "instrument": "Equity",
+            "email": "murariraj.humagain@asianlife.com.np"
+        },
+        {
+            "sn": 68,
+            "name": "HimalayanLifeInsuranceLimited",
+            "symbol": "HLI",
+            "status": "Active",
+            "sector": "LifeInsurance",
+            "instrument": "Equity",
+            "email": "rajan@primelifenepal.com"
+        },
+        {
+            "sn": 69,
+            "name": "NerudeLaghubittaBittiyaSansthaLimited",
+            "symbol": "NLBBL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@nerude.org.np"
+        },
+        {
+            "sn": 70,
+            "name": "AgriculturalDevelopmentBankLimited",
+            "symbol": "ADBL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "cs@adbl.gov.np"
+        },
+        {
+            "sn": 71,
+            "name": "MahalaxmiBikasBankLtd.",
+            "symbol": "MLBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "listing@mahalaxmi.com.np",
+            "Website": "http:\/\/www.yetibank.com"
+        },
+        {
+            "sn": 72,
+            "name": "SuryaJyotiLifeInsuranceCompanyLimited",
+            "symbol": "SJLIC",
+            "status": "Active",
+            "sector": "LifeInsurance",
+            "instrument": "Equity",
+            "email": "it@suryalife.com"
+        },
+        {
+            "sn": 73,
+            "name": "GarimaBikasBankLimited",
+            "symbol": "GBBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@garimabank.com.np"
+        },
+        {
+            "sn": 74,
+            "name": "JyotiBikasBankLimited",
+            "symbol": "JBBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "krishna.oasti@jbbl.com.np"
+        },
+        {
+            "sn": 75,
+            "name": "KarnaliDevelopmentBankLimited",
+            "symbol": "KRBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@kdblnepal.com"
+        },
+        {
+            "sn": 76,
+            "name": "CorporateDevelopmentBankLimited",
+            "symbol": "CORBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@corporatebank.com.np"
+        },
+        {
+            "sn": 77,
+            "name": "KamanaSewaBikasBankLimited",
+            "symbol": "KSBBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "pranay.tuladhar@kamanasewabank.com",
+            "Website": "https:\/\/www.kamanasewabank.com\/"
+        },
+        {
+            "sn": 78,
+            "name": "MultipurposeFinanceCompanyLimited",
+            "symbol": "MPFL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "mfclfin43@gmail.com"
+        },
+        {
+            "sn": 79,
+            "name": "ShangrilaDevelopmentBankLtd.",
+            "symbol": "SADBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@shangrilabank.com"
+        },
+        {
+            "sn": 80,
+            "name": "ShineResungaDevelopmentBankLtd.",
+            "symbol": "SHINE",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@srdb.com.np",
+            "Website": "https:\/\/srdb.com.np\/"
+        },
+        {
+            "sn": 81,
+            "name": "MuktinathBikasBankLtd.",
+            "symbol": "MNBBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@muktinathbank.com.np"
+        },
+        {
+            "sn": 82,
+            "name": "FirstMicroFinanceLaghubittaBittiyaSansthaLimited",
+            "symbol": "FMDBL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "bijay@fmdb.com.np"
+        },
+        {
+            "sn": 83,
+            "name": "ManjushreeFinanceLtd.",
+            "symbol": "MFIL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "info@manjushreefinance.com.np",
+            "Website": "manjushreefinance.com.np"
+        },
+        {
+            "sn": 84,
+            "name": "NepalBankLimited",
+            "symbol": "NBL",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Equity",
+            "email": "suresh.ghimire@nbl.com.np",
+            "Website": "www.nepalbank.com.np"
+        },
+        {
+            "sn": 85,
+            "name": "SwarojgarLaghuBittaBikasBankLtd.",
+            "symbol": "SLBBL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@slbbl.com.np",
+            "Website": "www.slbbl.com.np"
+        },
+        {
+            "sn": 86,
+            "name": "NLGInsuranceCompanyLtd.",
+            "symbol": "NLG",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "manoj.shrestha@nlgi.com.np"
+        },
+        {
+            "sn": 87,
+            "name": "SindhuBikashBankLtd",
+            "symbol": "SINDU",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@sindhubank.com.np"
+        },
+        {
+            "sn": 88,
+            "name": "SanaKisanBikasLaghubittaBittiyaSansthaLimited",
+            "symbol": "SKBBL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@skbbl.com.np",
+            "Website": "http:\/\/www.skbbl.com.np"
+        },
+        {
+            "sn": 89,
+            "name": "GrameenBikasLaghubittaBittiyaSansthaLtd.",
+            "symbol": "GBLBS",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@gblbs.com.np",
+            "Website": "http:\/\/www.grameenbanknepal.com"
+        },
+        {
+            "sn": 90,
+            "name": "RelianceFinanceLtd.",
+            "symbol": "RLFL",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Equity",
+            "email": "loginnepse@reliancenepal.com.np"
+        },
+        {
+            "sn": 91,
+            "name": "SanimaMaiHydropowerLtd.",
+            "symbol": "SHPC",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "sanimamai@sanimahydro.com",
+            "Website": "www.maihydro.com"
+        },
+        {
+            "sn": 92,
+            "name": "KalikaLaghubittaBittiyaSansthaLtd",
+            "symbol": "KMCDB",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@kalikabank.com.np",
+            "Website": "www.kalikabank.com.np"
+        },
+        {
+            "sn": 93,
+            "name": "MithilaLaghuBittaBittiyaSansthaLimited",
+            "symbol": "MLBBL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "mlboperationdepart@gmail.com",
+            "Website": "http:\/\/www.mldbank.com.np"
+        },
+        {
+            "sn": 94,
+            "name": "RidiPowerCompanyLimited",
+            "symbol": "RIDI",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "sayikanepal@gmail.com"
+        },
+        {
+            "sn": 95,
+            "name": "LaxmiLaghubittaBittiyaSansthaLtd.",
+            "symbol": "LLBS",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "company.secretary@laxmilaghu.com.np"
+        },
+        {
+            "sn": 96,
+            "name": "MirmireLaghubittaBittyaSansthaLimited",
+            "symbol": "MMFDB",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@mirmirebank.com.np",
+            "Website": "http:\/\/www.mirmirebank.com.np"
+        },
+        {
+            "sn": 97,
+            "name": "BarunHydropowerCo.Ltd.",
+            "symbol": "BARUN",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "barunhydro@gmail.com"
+        },
+        {
+            "sn": 98,
+            "name": "VijayalaghubittaBittiyaSansthaLtd.",
+            "symbol": "VLBS",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "vlbs@vlbs.com.np"
+        },
+        {
+            "sn": 99,
+            "name": "HimalayanLaghubittaBittiyaSansthaLimited",
+            "symbol": "HLBSL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@himalayanlaghubitta.com",
+            "Website": "www.himalayanlaghubitta.com"
+        },
+        {
+            "sn": 100,
+            "name": "KisanLagubittaBittiyaSansthaLimited",
+            "symbol": "KLBSL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "secretorykisanmf079@gmail.com"
+        },
+        {
+            "sn": 101,
+            "name": "JanautthanSamudayicLaghubittaBittyaSansthaLimited",
+            "symbol": "JSLBB",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@jucbank.com.np"
+        },
+        {
+            "sn": 102,
+            "name": "ApiPowerCompanyLtd.",
+            "symbol": "API",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "apipowercompany@gmail.com",
+            "Website": "www.apipower.com.np"
+        },
+        {
+            "sn": 103,
+            "name": "NMBMicrofinanceBittiyaSansthaLtd.",
+            "symbol": "NMBMF",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "surya.thapa@nmbmicrofinance.com",
+            "Website": "http:\/\/www.cleanvillage.com.np"
+        },
+        {
+            "sn": 104,
+            "name": "GlobalIMELaghubittaBittiyaSansthaLtd.",
+            "symbol": "GILB",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@gilb.com.np",
+            "Website": "http:\/\/www.gilb.com.np"
+        },
+        {
+            "sn": 105,
+            "name": "SuryodayaWomiLaghubittaBittiyaSansthaLimited",
+            "symbol": "SWMF",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "pramesh.swmfi@gmail.com"
+        },
+        {
+            "sn": 106,
+            "name": "MeroMicrofinanceBittiyaSansthaLtd.",
+            "symbol": "MERO",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "meromicrofinance@gmail.com"
+        },
+        {
+            "sn": 107,
+            "name": "HydorelectricityInvestmentandDevelopmentCompanyLtd",
+            "symbol": "HIDCL",
+            "status": "Active",
+            "sector": "Investment",
+            "instrument": "Equity",
+            "email": "jbasnet@hidcl.org.np",
+            "Website": "www.hidcl.org.np"
+        },
+        {
+            "sn": 108,
+            "name": "NgadiGroupPowerLtd.",
+            "symbol": "NGPL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "nyadigroup06@gmail.com"
+        },
+        {
+            "sn": 109,
+            "name": "GreenDevelopmentBankLtd.",
+            "symbol": "GRDBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@greenbank.com.np",
+            "Website": "http:\/\/greenbank.com.np\/"
+        },
+        {
+            "sn": 110,
+            "name": "NationalLaghubittaBittiyaSansthaLimited",
+            "symbol": "NMFBS",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "hofficenmfbs@gmail.com",
+            "Website": "http:\/\/www.nationalmicrofinance.com.np"
+        },
+        {
+            "sn": 111,
+            "name": "RSDCLaghubittaBittiyaSansthaLtd.",
+            "symbol": "RSDC",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@rsdcmf.com",
+            "Website": "www.rsdcmf.com"
+        },
+        {
+            "sn": 112,
+            "name": "KhanikholaHydropowerCo.Ltd.",
+            "symbol": "KKHC",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "khanikhola.hpc@gmail.com"
+        },
+        {
+            "sn": 113,
+            "name": "DibyashworiHydropowerLtd.",
+            "symbol": "DHPL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "dibyashwarihydropower@gmail.com"
+        },
+        {
+            "sn": 114,
+            "name": "ArunKabeliPowerLtd.",
+            "symbol": "AKPL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "arunkabeli@gmail.com"
+        },
+        {
+            "sn": 115,
+            "name": "ForwardMicrofinanceLaghubittaBittiyaSansthaLimited",
+            "symbol": "FOWAD",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@forwardmfbank.com.np"
+        },
+        {
+            "sn": 116,
+            "name": "SynergyPowerDevelopmentLtd.",
+            "symbol": "SPDL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "email.synergy@gmail.com",
+            "Website": "www.synergyhydro.com"
+        },
+        {
+            "sn": 117,
+            "name": "UnitedModiHydropowerLtd.",
+            "symbol": "UMHL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "unitedmodi@ntc.net.np",
+            "Website": "www.umh.com.np"
+        },
+        {
+            "sn": 118,
+            "name": "SamataGhareluLaghubittaBittiyaSansthaLimited",
+            "symbol": "SMATA",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "samata@samata.org.np",
+            "Website": "www.samata.org.np"
+        },
+        {
+            "sn": 119,
+            "name": "LaxmiEquityFund",
+            "symbol": "LEMF",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "MutualFunds",
+            "email": "piyush.aryal@laxmibank.com"
+        },
+        {
+            "sn": 120,
+            "name": "ChhyangdiHydropowerLtd.",
+            "symbol": "CHL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "chhyangdihydropowerltd@gmail.com"
+        },
+        {
+            "sn": 121,
+            "name": "HimalayanPowerPartnerLtd.",
+            "symbol": "HPPL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "hpphydro.binaya@gmail.com",
+            "Website": "http:\/\/www.hpp.com.np"
+        },
+        {
+            "sn": 122,
+            "name": "MahuliLaghubittaBittiyaSansthaLimited",
+            "symbol": "MSLB",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "saroj.singh@mslbsl.com.np",
+            "Website": "mslbsl.com.np"
+        },
+        {
+            "sn": 123,
+            "name": "NepalHydroDevelopersLtd.",
+            "symbol": "NHDL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "info@charnawathihydro.com",
+            "Website": "www.charnawatihydro.com"
+        },
+        {
+            "sn": 124,
+            "name": "SiddharthaEquityFund",
+            "symbol": "SEF",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "MutualFunds",
+            "email": "laxman.ghimire@sbl.com.np"
+        },
+        {
+            "sn": 125,
+            "name": "SupportMicrofinanceBittiyaSansthaLtd.",
+            "symbol": "SMB",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "smicrofinance7@gmail.com",
+            "Website": "https:\/\/supportmicrofinance.com.np\/"
+        },
+        {
+            "sn": 126,
+            "name": "SanimaEquityFund",
+            "symbol": "SAEF",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "MutualFunds",
+            "email": "RUDRA@sanimabank.com",
+            "Website": "www.sanimabank.com"
+        },
+        {
+            "sn": 127,
+            "name": "UnnatiSahakaryaLaghubittaBittiyaSansthaLimited",
+            "symbol": "USLB",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "prempathak021@gmail.com",
+            "Website": "http:\/\/www.unnatimfi.com.np"
+        },
+        {
+            "sn": 128,
+            "name": "RadhiBidyutCompanyLtd",
+            "symbol": "RADHI",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "info@radhibidyut.com.np"
+        },
+        {
+            "sn": 129,
+            "name": "NICAsiaGrowthFund",
+            "symbol": "NICGF",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "MutualFunds",
+            "email": "nica.nots@nicasiabank.com"
+        },
+        {
+            "sn": 130,
+            "name": "CitizensMutualFund-1",
+            "symbol": "CMF1",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "MutualFunds",
+            "email": "rajendra.shrestha@ctznbank.com",
+            "Website": "www.ctznbank.com"
+        },
+        {
+            "sn": 131,
+            "name": "WeanNepalLaghubittaBittiyaSansthaLimited",
+            "symbol": "WNLB",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "nepalseva@gmail.com"
+        },
+        {
+            "sn": 132,
+            "name": "NadepLaghubittiyabittyaSansthaLtd.",
+            "symbol": "NADEP",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "nadeplaghubitta@gmail.com"
+        },
+        {
+            "sn": 133,
+            "name": "PanchakanyaMaiHydropowerLtd",
+            "symbol": "PMHPL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "panchakanyamai@gmail.com"
+        },
+        {
+            "sn": 134,
+            "name": "KalikapowerCompanyLtd",
+            "symbol": "KPCL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "daraudikalikahydro@gmail.com"
+        },
+        {
+            "sn": 135,
+            "name": "AnkhuKholaJalvidhyutCompanyLtd",
+            "symbol": "AKJCL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "ankhukhola@yahoo.com",
+            "Website": "www.aankhukholahydropower.com.np"
+        },
+        {
+            "sn": 136,
+            "name": "JoshiHydropowerDevelopmentCompanyLtd",
+            "symbol": "JOSHI",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "info@joshihydropower.com",
+            "Website": "www.joshihydropower.com"
+        },
+        {
+            "sn": 137,
+            "name": "AarambhaChautariLaghubittaBittiyaSansthaLimited",
+            "symbol": "ACLBSL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "aarambhachautari@gmail.com",
+            "Website": "www.chautarimfb.com"
+        },
+        {
+            "sn": 138,
+            "name": "UpperTamakoshiHydropowerLtd",
+            "symbol": "UPPER",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "office@utkhpl.org.np",
+            "Website": "www.tamakhosihydro.org.np"
+        },
+        {
+            "sn": 139,
+            "name": "SamudayikLaghubittaBittiyaSansthaLimited",
+            "symbol": "SLBSL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "samudayikbank@gmail.com",
+            "Website": "www.samudayikbank.com.np"
+        },
+        {
+            "sn": 140,
+            "name": "GhalemdiHydroLimited",
+            "symbol": "GHL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "relinarenergy@gmail.com",
+            "Website": "www.ghalemdi.com"
+        },
+        {
+            "sn": 141,
+            "name": "AshaLaghubittaBittiyaSansthaLtd",
+            "symbol": "ALBSL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "ashamicrofinance@gmail.com",
+            "Website": "www.ashamicrofinance.com.np"
+        },
+        {
+            "sn": 142,
+            "name": "SHIVAMCEMENTSLTD",
+            "symbol": "SHIVM",
+            "status": "Active",
+            "sector": "ManufacturingAndProcessing",
+            "instrument": "Equity",
+            "email": "info@shivamcement.com",
+            "Website": "www.shivamcement.com"
+        },
+        {
+            "sn": 143,
+            "name": "UNIVERSALPOWERCOMPANYLTD",
+            "symbol": "UPCL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "upcl.share@tkkhp.com.np",
+            "Website": "www.universalpowercompany.com.np"
+        },
+        {
+            "sn": 144,
+            "name": "MountainHydroNepalLimited",
+            "symbol": "MHNL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "mountainhydronepal@gmail.com",
+            "Website": "www.mountainhydronepal.com.np"
+        },
+        {
+            "sn": 145,
+            "name": "PanchtharPowerCompantLimited",
+            "symbol": "PPCL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "ppchewa@gmail.com",
+            "Website": "www.ppcl.com.np"
+        },
+        {
+            "sn": 146,
+            "name": "GanapatiLaghubittaBittiyaSansthaLimited",
+            "symbol": "GMFBS",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "ganapati.micro@gmail.com",
+            "Website": "www.ganapatimicro.com.np"
+        },
+        {
+            "sn": 147,
+            "name": "HimalayaUrjaBikasCompanyLimited",
+            "symbol": "HURJA",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "himalayaurja@gmail.com",
+            "Website": "www.himalurja.com"
+        },
+        {
+            "sn": 148,
+            "name": "10%NICAsiaDebenture2085\/86",
+            "symbol": "NICAD85\/86",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "nica.nots@nicasiabank.com"
+        },
+        {
+            "sn": 149,
+            "name": "GuransLaghubittaBittiyaSansthaLimited",
+            "symbol": "GLBSL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "guranslbbs@gmail.com",
+            "Website": "www.guranslaghubitta.com.np"
+        },
+        {
+            "sn": 150,
+            "name": "10%SanimaBankLimitedDebenture",
+            "symbol": "SAND2085",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "RUDRA@sanimabank.com",
+            "Website": "www.sanimabank.com"
+        },
+        {
+            "sn": 151,
+            "name": "SwabhimaanLaghubittaBittiyaSansthaLimited",
+            "symbol": "SMFBS",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@swabhimaanlaghubitta.com.np",
+            "Website": "www.swabhimaanmicrofinance.com"
+        },
+        {
+            "sn": 152,
+            "name": "UnionHydropowerLimited",
+            "symbol": "UNHPL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "unionhppl@gmail.com",
+            "Website": "www.unionhydropower.com.np"
+        },
+        {
+            "sn": 153,
+            "name": "InfinityLaghubittaBittiyaSansthaLimited",
+            "symbol": "ILBS",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "ilbslfinance@gmail.com",
+            "Website": "www.infinitymbsl.com"
+        },
+        {
+            "sn": 154,
+            "name": "10%SunriseDebenture2080",
+            "symbol": "SRD80",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "info@sunrisebank.com.np"
+        },
+        {
+            "sn": 155,
+            "name": "NABILBALANCEDFUND-2",
+            "symbol": "NBF2",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "MutualFunds",
+            "email": "rajesh.bogati@nabilbank.com"
+        },
+        {
+            "sn": 156,
+            "name": "10.25%GLOBALIMEBANKLTD.DEBENTURE2080\/81",
+            "symbol": "GBD80\/81",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "nlisting@gibl.com.np",
+            "Website": "http:\/\/www.globalimebank.com"
+        },
+        {
+            "sn": 157,
+            "name": "RASUWAGADHIHYDROPOWERCOMPANYLIMITED",
+            "symbol": "RHPL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "neupane.nar@gmail.com",
+            "Website": "www.rghpcl.com.np"
+        },
+        {
+            "sn": 158,
+            "name": "SANJENJALAVIDHYUTCOMPANYLIMITED",
+            "symbol": "SJCL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "sanjenhcl@gmail.com",
+            "Website": "www.sjcl.com.np"
+        },
+        {
+            "sn": 159,
+            "name": "SabaikoLaghubittaBittiyaSansthaLimited",
+            "symbol": "SABSL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "info@sabaikolaghubitta.com",
+            "Website": "www.sabaikolaghubitta.com"
+        },
+        {
+            "sn": 160,
+            "name": "10%NMBDEBENTURE2085",
+            "symbol": "NMBD2085",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "pramod.dahal@nmb.com.np",
+            "Website": "http:\/\/www.nmb.com.np"
+        },
+        {
+            "sn": 161,
+            "name": "10.5%NEPALINVESTMENTDEBENTURE2082",
+            "symbol": "NIBD2082",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "NIBL.Nepse@nibl.com.np",
+            "Website": "http:\/\/www.nibl.com.np"
+        },
+        {
+            "sn": 162,
+            "name": "10.25%NBBLDebenture2085",
+            "symbol": "NBBD2085",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "bishwapoudel@nbbl.com.np"
+        },
+        {
+            "sn": 163,
+            "name": "SiddharthaInvestmentGrowthScheme-2",
+            "symbol": "SIGS2",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "MutualFunds",
+            "email": "laxman.ghimire@sbl.com.np"
+        },
+        {
+            "sn": 164,
+            "name": "SaptakoshiDevelopmentBankLtd",
+            "symbol": "SAPDBL",
+            "status": "Active",
+            "sector": "DevelopmentBanks",
+            "instrument": "Equity",
+            "email": "info@skdbl.com.np",
+            "Website": "www.skdbl.com.np"
+        },
+        {
+            "sn": 165,
+            "name": "CITIZENSMUTUALFUND2",
+            "symbol": "CMF2",
+            "status": "Active",
+            "sector": "MutualFund",
+            "instrument": "MutualFunds",
+            "email": "info@cbilcapital.com",
+            "Website": "www.cbilcapital.com"
+        },
+        {
+            "sn": 166,
+            "name": "NICAsiaBalancedFund",
+            "symbol": "NICBF",
+            "status": "Active",
+            "sector": "MutualFund",
+            "instrument": "MutualFunds",
+            "email": "info@nicasiacapital.com",
+            "Website": "www.nicasiacapital.com"
+        },
+        {
+            "sn": 167,
+            "name": "10.25%SBLDebenture2083",
+            "symbol": "SBLD83",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "laxman.ghimire@sbl.com.np"
+        },
+        {
+            "sn": 168,
+            "name": "10.25%MachhapuchhreBankDebenture2085",
+            "symbol": "MBLD2085",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "machbank@mbl.com.np",
+            "Website": "http:\/\/www.machbank.com"
+        },
+        {
+            "sn": 169,
+            "name": "NMB50",
+            "symbol": "NMB50",
+            "status": "Active",
+            "sector": "MutualFund",
+            "instrument": "MutualFunds",
+            "email": "mutualfunds@nmbcl.com.np",
+            "Website": "www.nmbcl.com.np"
+        },
+        {
+            "sn": 170,
+            "name": "10.25%NICAsiaDebenture2083\/84",
+            "symbol": "NICD83\/84",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "nica.nots@nicasiabank.com"
+        },
+        {
+            "sn": 171,
+            "name": "11%NICAsiaDebenture082\/83",
+            "symbol": "NICAD8283",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "nica.nots@nicasiabank.com"
+        },
+        {
+            "sn": 172,
+            "name": "8%BOKDebenture2079",
+            "symbol": "BOKD2079",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "deepak.gautam@bok.com.np"
+        },
+        {
+            "sn": 173,
+            "name": "10.50%SBLDebenture2082",
+            "symbol": "SBLD2082",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "laxman.ghimire@sbl.com.np"
+        },
+        {
+            "sn": 174,
+            "name": "10%HimalayanBankDebenture2083",
+            "symbol": "HBLD83",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "legal@himalayanbank.com",
+            "Website": "https:\/\/www.himalayanbank.com"
+        },
+        {
+            "sn": 175,
+            "name": "10.25%PrabhuBankDebenture2086",
+            "symbol": "PBLD86",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "amit.bhandari@prabhubank.com"
+        },
+        {
+            "sn": 176,
+            "name": "SunriseFirstMutualFund",
+            "symbol": "SFMF",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "MutualFunds",
+            "email": "piyush.aryal@laxmibank.com"
+        },
+        {
+            "sn": 177,
+            "name": "10.25%SunriseBankDebenture2083",
+            "symbol": "SRBLD83",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "info@sunrisebank.com.np"
+        },
+        {
+            "sn": 178,
+            "name": "10%LaxmiBankDebenture2086",
+            "symbol": "LBLD86",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "piyush.aryal@laxmibank.com"
+        },
+        {
+            "sn": 179,
+            "name": "HimalDolakhaHydropowerCompanyLimited",
+            "symbol": "HDHPC",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "hydrohimaldolakha@gmail.com",
+            "Website": "www.himaldolakhahydro.com"
+        },
+        {
+            "sn": 180,
+            "name": "NepalReinsuranceCompanyLimited",
+            "symbol": "NRIC",
+            "status": "Active",
+            "sector": "Others",
+            "instrument": "Equity",
+            "email": "nepalre@ntc.net.np",
+            "Website": "www.nepalre.com.np"
+        },
+        {
+            "sn": 181,
+            "name": "12%ICFCFinanceLimitedDebenture2083",
+            "symbol": "ICFCD83",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "nepsereport@icfcbank.com",
+            "Website": "www.icfc.com.np"
+        },
+        {
+            "sn": 182,
+            "name": "12%GoodwillFinanceLimitedDebenture2083",
+            "symbol": "GWFD83",
+            "status": "Active",
+            "sector": "Finance",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "info@goodwill.net.np",
+            "Website": "https:\/\/goodwillfinance.com.np\/"
+        },
+        {
+            "sn": 183,
+            "name": "10.25%KBLDebenture2086",
+            "symbol": "KBLD86",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "info@kumaribank.com",
+            "Website": "http:\/\/www.kumaribank.com"
+        },
+        {
+            "sn": 184,
+            "name": "10.35%AgriculturalBankDebenture2083",
+            "symbol": "ADBLD83",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "cs@adbl.gov.np"
+        },
+        {
+            "sn": 185,
+            "name": "NICASIALaghubittaBittiyaSansthaLimited",
+            "symbol": "NICLBSL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "compliance@nicasialaghubitta.com",
+            "Website": "www.nicasialaghubitta.com"
+        },
+        {
+            "sn": 186,
+            "name": "10.25%CitizensBankDebenture2086",
+            "symbol": "CIZBD86",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "rajendra.shrestha@ctznbank.com",
+            "Website": "www.ctznbank.com"
+        },
+        {
+            "sn": 187,
+            "name": "10%NepalSBIBankDebenture2086",
+            "symbol": "SBIBD86",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "cs@nsbl.com.np",
+            "Website": "https:\/\/nsbl.statebank"
+        },
+        {
+            "sn": 188,
+            "name": "10%NabilDebenture2082",
+            "symbol": "NBLD82",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "rajesh.bogati@nabilbank.com"
+        },
+        {
+            "sn": 189,
+            "name": "9%NICAsiaDebenture2081\/82",
+            "symbol": "NICAD8182",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "nica.nots@nicasiabank.com"
+        },
+        {
+            "sn": 190,
+            "name": "SadhanaLaghubittaBittiyaSansthaLimited",
+            "symbol": "SDLBSL",
+            "status": "Active",
+            "sector": "Microfinance",
+            "instrument": "Equity",
+            "email": "resham.sadhana@gmail.com",
+            "Website": "www.sadhanlaghubitta.com.np"
+        },
+        {
+            "sn": 191,
+            "name": "NRNInfrastructureandDevelopmentLimited",
+            "symbol": "NRN",
+            "status": "Active",
+            "sector": "Investment",
+            "instrument": "Equity",
+            "email": "nrninvestmentltd@gmail.com",
+            "Website": "www.nrinl.com"
+        },
+        {
+            "sn": 192,
+            "name": "LaxmiUnnatiKosh",
+            "symbol": "LUK",
+            "status": "Active",
+            "sector": "MutualFund",
+            "instrument": "MutualFunds",
+            "email": "info@laxmicapital.com.np",
+            "Website": "www.laxmicapital.com.np"
+        },
+        {
+            "sn": 193,
+            "name": "LibertyEnergyCompanyLimited",
+            "symbol": "LEC",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "liberty@libertyenergy.com.np",
+            "Website": "www.libertyenergy.com.np"
+        },
+        {
+            "sn": 194,
+            "name": "10%PrabhuBankDebenture2084",
+            "symbol": "PBLD84",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "amit.bhandari@prabhubank.com"
+        },
+        {
+            "sn": 195,
+            "name": "ShivaShreeHydropowerLtd",
+            "symbol": "SSHL",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "shivashreehydropowerltd@gmail.com",
+            "Website": "www.shivashreehdyro.com"
+        },
+        {
+            "sn": 196,
+            "name": "SanimaGICInsuranceLimited",
+            "symbol": "SGIC",
+            "status": "Active",
+            "sector": "NonLifeInsurance",
+            "instrument": "Equity",
+            "email": "sanima@sanimageneral.com",
+            "Website": "www.sanimageneral.com"
+        },
+        {
+            "sn": 197,
+            "name": "8.5%SBLDebenture2084",
+            "symbol": "SBLD84",
+            "status": "Active",
+            "sector": "CommercialBanks",
+            "instrument": "Non-ConvertibleDebentures",
+            "email": "laxman.ghimire@sbl.com.np"
+        },
+        {
+            "sn": 198,
+            "name": "MountainEnergyNepalLimited",
+            "symbol": "MEN",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "rajendra.sharma@mountainenergy.com.np",
+            "Website": "www.mountainenergy.com.np"
+        },
+        {
+            "sn": 199,
+            "name": "UnitedIDIMardiRBHydropowerLimited.",
+            "symbol": "UMRH",
+            "status": "Active",
+            "sector": "HydroPower",
+            "instrument": "Equity",
+            "email": "unitedidimardi7mw@gmail.com",
+            "Website": "www.idimardihydro.com.np"
+        },
+        {
+            "sn": 200,
+            "name": "PrabhuMahalaxmiLifeInsuranceLimited",
+            "symbol": "PMLI",
+            "status": "Active",
+            "sector": "LifeInsurance",
+            "instrument": "Equity",
+            "email": "kishor.lamichhane@pmlil.com",
+            "Website": "www.pmlil.com"
+        }
+    ]
+}
