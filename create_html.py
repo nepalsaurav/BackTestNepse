@@ -10,9 +10,8 @@ from statstics_test import corr_coef
 import plotly.graph_objects as go
 import markdown
 
+from utils.data.getdata import GetData, dump_json_file, get_json_data
 
-path_wkhtmltopdf = r'C:/Program Files/wkhtmltopdf/bin/wkhtmltopdf.exe'
-config = pdfkit.configuration(wkhtmltopdf=path_wkhtmltopdf)
 
 
 def np_log(row):
@@ -34,6 +33,84 @@ def color_row(row):
     return [color] * len(row)
 
 
+def create_response(strategy, start_date, end_date, isDay):
+    if isDay:
+        start_date, end_date = GetData.get_start_and_end_date(
+        is_days=True, number_of_days=100)
+    else:
+        start_date, end_date = GetData.get_start_and_end_date(
+        is_days=False,start_date=start_date, end_date=end_date)
+    isFileExist, data = get_json_data(f'{strategy}', start_date=start_date, end_date=end_date)
+    if isFileExist:
+        return data
+    df = pd.read_excel("result.xlsx")
+    df['SN'] = df.index + 1
+    last_column = df.pop(df.columns[-1])  # Remove the last column and store it
+    df.insert(0, last_column.name, last_column)
+    df['Invest Amount'] = df['Invest Amount'].map('{:,.2f}'.format)
+    df['Return Amount'] = df['Return Amount'].map('{:,.2f}'.format)
+    df['Return Percent'] = df['Return Percent'].round(2)
+    df['Standard Deviation'] = df['Standard Deviation'].round(2)
+    df['Beta'] = df['Beta'].round(2)
+    df['From Date'] = pd.to_datetime(df['From Date'])
+    df['To Date'] = pd.to_datetime(df['To Date'])
+    df['Annualized Return'] = (
+        (df['Return Percent']/(df['To Date'] - df['From Date']).dt.days) * 365).round(2)
+    df['From Date'] = df['From Date'].astype(str)
+    df['To Date'] = df['To Date'].astype(str)
+    df = df.sort_values('Return Percent', ascending=False)
+    df = df.fillna('')
+
+    return_data = {}
+    return_data["strategyReturn"] = df.to_dict(orient='records')
+
+    # best case montecarlor
+    ms_df = pd.read_excel("msim.xlsx")
+    b_case_ms = (ms_df.sort_values('Return Percent', ascending=False).head(5))
+    b_case_ms['Invest Amount'] = b_case_ms['Invest Amount'].map(
+        '{:,.2f}'.format)
+    b_case_ms['Return Amount'] = b_case_ms['Return Amount'].map(
+        '{:,.2f}'.format)
+    b_case_ms['Return Percent'] = b_case_ms['Return Percent'].round(2)
+    b_case_ms = b_case_ms.to_html(index=False, classes="table is-bordered is-striped is-narrow is-hoverable is-fullwidth")
+    return_data['bestCaseMS'] = b_case_ms
+    # wors case montecarlor
+    w_case_ms = (ms_df.sort_values('Return Percent', ascending=True).head(5))
+    w_case_ms['Invest Amount'] = w_case_ms['Invest Amount'].map(
+        '{:,.2f}'.format)
+    w_case_ms['Return Amount'] = w_case_ms['Return Amount'].map(
+        '{:,.2f}'.format)
+    w_case_ms['Return Percent'] = w_case_ms['Return Percent'].round(2)
+    w_case_ms = w_case_ms.to_html(index=False, classes="table is-bordered is-striped is-narrow is-hoverable is-fullwidth")
+    return_data['worstCaseMS'] = w_case_ms
+
+    trace = go.Histogram(x=ms_df["Return Percent"])
+    layout = go.Layout(title='Histogram', xaxis=dict(
+        title='Rerurn Percentage'), yaxis=dict(title='Frequency of return percentage'))
+    figure = go.Figure(data=[trace], layout=layout)
+    image_bytes = pio.to_image(
+        figure, format='png',  width=800, height=600, scale=2)
+    image_base64 = base64.b64encode(image_bytes).decode('utf-8')
+    return_data['histogram'] = image_base64
+
+    # distribution_rp_chart = f'<img src="data:image/png;base64,{image_base64}">'
+
+    # summary
+    summary_mcs = ms_df["Return Percent"].describe()
+    summary_mcs = summary_mcs.to_frame().to_html(classes="table is-bordered is-striped is-narrow is-hoverable is-fullwidth")
+    # Render the template with data
+    total_data = (ms_df["Return Percent"] != 0).sum()
+    summary_mcs += f"""
+    <br>
+    <h1>Probability Of Getting Positive Return: { round((((ms_df["Return Percent"] > 0).sum())/total_data)*100, 2) }%</h1>
+    <h1>Probability Of Getting Negative Return: { round((((ms_df["Return Percent"] < 0).sum())/total_data)*100, 2) }%</h1>
+    """
+
+    return_data["summaryMS"] = summary_mcs
+    
+    dump_json_file(return_data, f"{strategy}", start_date=start_date, end_date=end_date)
+    return return_data
+
 def CreateHtml(strategy):
     env = Environment(loader=FileSystemLoader('.'))
     # Load the template
@@ -41,6 +118,7 @@ def CreateHtml(strategy):
 
     # load excel to html
     df = pd.read_excel("result.xlsx")
+    print(df)
     df['SN'] = df.index + 1
     last_column = df.pop(df.columns[-1])  # Remove the last column and store it
     df.insert(0, last_column.name, last_column)
@@ -89,6 +167,7 @@ def CreateHtml(strategy):
             bottom_5_detail.append(
                 {"symbol": symbol, "html": html_output_tail})
         except Exception as e:
+            print(e)
             pass
     # print(top_5_detail)
 
@@ -222,7 +301,8 @@ def CreateHtml(strategy):
         distribution_rp_chart=distribution_rp_chart,
         summary_mcs=summary_mcs
     )
-
+    
+    print(output)
     # pdf = pdfkit.from_string(output, 'output/output.pdf', configuration=config)
     # Print the rendered output
     with open("output/output.html", "w+") as f:

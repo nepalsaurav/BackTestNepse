@@ -1,3 +1,4 @@
+from pathlib import Path
 import requests
 import tablib
 from datetime import datetime, timedelta
@@ -6,7 +7,7 @@ import os
 
 
 def dump_json_file(data, symbol, start_date, end_date):
-    with open(f"cachedata/{symbol}_{start_date}_{end_date}.json", "w+") as f:
+    with open(f"cachedata/{symbol}_{start_date}_{end_date}.json", "w+") as f:    
         json.dump(data, f)
 
 
@@ -24,6 +25,7 @@ class GetData:
     def __init__(self, symbol):
         self.symbol = symbol
 
+    
     def get_data(self, start_date, end_date):
         isFileExist, data = get_json_data(self.symbol, start_date, end_date)
         # print(isFileExist)
@@ -56,8 +58,9 @@ class GetData:
         # if self.symbol == "NEPSE_index":
             # print(df_data)
         return df_data.export('df')
-
-    def get_start_and_end_date(self, number_of_days, is_days):
+    
+    @staticmethod
+    def get_start_and_end_date(is_days,number_of_days = 100, start_date="", end_date=""):
         if is_days == True:
             day = datetime.today()
             day = day.strftime("%d/%m/%Y")
@@ -71,4 +74,10 @@ class GetData:
             start_date = str(datetime.timestamp(start_date)).split(".")[0]
             return start_date, end_date
         else:
-            return None, None
+            end_date = datetime(int(end_date.split("/")[2]), int(end_date.split("/")[1]),
+                                int(end_date.split("/")[0]), 5, 45, 0)
+            end_date = str(datetime.timestamp(end_date)).split(".")[0]
+            start_date = datetime(int(start_date.split("/")[2]), int(start_date.split("/")[1]),
+                                  int(start_date.split("/")[0]), 5, 45, 0)
+            start_date = str(datetime.timestamp(start_date)).split(".")[0]
+            return start_date, end_date
