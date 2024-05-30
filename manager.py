@@ -89,7 +89,7 @@ class StrategyManager:
                 df = strategy.strategy(df=df, symbol=symbol)
                 df_data, from_date, to_date, invest_amount, return_p, sharpe_ratio, sortino_ratio, max_drawdown = strategy.return_calculation(df)
                 df_data = df_data.export('df')
-                df_data.to_excel(f"result/{symbol}.xlsx", index=False)
+                df_data.to_excel(f"result/{symbol}_{self.args['strategy']}.xlsx", index=False)
                 std = strategy.std_deviation(df)
                 beta = strategy.beta(df, start_date, end_date)
                 append_data = (symbol, from_date, to_date, 100000, invest_amount, return_p, std, beta, sharpe_ratio, sortino_ratio, max_drawdown)

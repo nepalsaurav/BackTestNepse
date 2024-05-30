@@ -23,15 +23,15 @@ class RSIDivMACrossover:
 
     def condition(self, row):
         # MAC Crossover Condition for Buy Signal
-        if row["SMA10"] > row["SMA20"] and row["EMA3"] > row["EMA6"]:
+        if row["SMA10"] > row["SMA20"]:
             # RSI Divergence Condition for Buy Signal
-            if row["RSI"] < 30 and row["RSI"] > row["RSI"].shift(1):
+            if row["RSI"] < 30:
                 return 1  # Buy Signal
 
         # MAC Crossover Condition for Sell Signal
-        if row["SMA10"] < row["SMA20"] and row["EMA3"] < row["EMA6"]:
+        if row["SMA10"] < row["SMA20"]:
             # RSI Divergence Condition for Sell Signal
-            if row["RSI"] > 70 and row["RSI"] < row["RSI"].shift(1):
+            if row["RSI"] > 70:
                 return 0  # Sell Signal
 
         return "No condition"  # No Signal
